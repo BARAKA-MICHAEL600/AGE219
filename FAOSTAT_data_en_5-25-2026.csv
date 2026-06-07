@@ -1,0 +1,154 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2015,2015,t,1680000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2016,2016,t,1800000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2017,2017,t,1885600,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2018,2018,t,1914000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2019,2019,t,1955900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2020,2020,t,1782300,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2021,2021,t,1908700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2022,2022,t,2043500,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24310.01,"Beer of barley, malted",2023,2023,t,2063900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2015,2015,t,303000,E,Estimated value,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2016,2016,t,290000,E,Estimated value,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2017,2017,t,260000,E,Estimated value,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2018,2018,t,265924,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2019,2019,t,307912,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2020,2020,t,367051.96,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2021,2021,t,343039.22,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2022,2022,t,391064.71,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,1921.02,"Cotton lint, ginned",2023,2023,t,295013.73,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2015,2015,t,437000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2016,2016,t,340000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2017,2017,t,310000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2018,2018,t,380000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2019,2019,t,440000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2020,2020,t,535000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2021,2021,t,500000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2022,2022,t,570000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,143,Cotton seed,2023,2023,t,430000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2015,2015,t,18400,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2016,2016,t,9900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2017,2017,t,7300,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2018,2018,t,20100,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2019,2019,t,15304,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2020,2020,t,20361,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2021,2021,t,20110,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2022,2022,t,21425,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2168,Cottonseed oil,2023,2023,t,22976,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2015,2015,t,82491.6,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2016,2016,t,85015,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2017,2017,t,81476,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2018,2018,t,82781,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2019,2019,t,83241,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2020,2020,t,73890,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2021,2021,t,81872,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2022,2022,t,78495.4,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23913,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",2023,2023,t,70568.3,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2015,2015,t,82900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2016,2016,t,80300,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2017,2017,t,86800,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2018,2018,t,102700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2019,2019,t,88242,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2020,2020,t,70488,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2021,2021,t,62862,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2022,2022,t,82284,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2162,Groundnut oil,2023,2023,t,46722,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2015,2015,t,17799.08,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2016,2016,t,16154.65,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2017,2017,t,16696.52,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2018,2018,t,18179.42,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2019,2019,t,18090.71,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2020,2020,t,13214.31,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2021,2021,t,15724.6,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2022,2022,t,15176.04,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21700.02,Margarine and shortening,2023,2023,t,12038.14,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2015,2015,t,650000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2016,2016,t,640000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2017,2017,t,580000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2018,2018,t,575000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2019,2019,t,575000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2020,2020,t,600000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2021,2021,t,552088.56,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2022,2022,t,517654.74,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,23540,Molasses,2023,2023,t,499301.83,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2015,2015,t,900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2016,2016,t,900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2017,2017,t,2100,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2018,2018,t,1800,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2019,2019,t,256,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2020,2020,t,490,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2021,2021,t,296,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2022,2022,t,161,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.12,Oil of linseed,2023,2023,t,392,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2015,2015,t,41600,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2016,2016,t,43500,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2017,2017,t,45400,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2018,2018,t,46800,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2019,2019,t,48300,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2020,2020,t,50200,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2021,2021,t,52800,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2022,2022,t,55400,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21691.02,Oil of maize,2023,2023,t,54700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2015,2015,t,30000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2016,2016,t,24000,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2017,2017,t,45000,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2018,2018,t,27500,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2019,2019,t,30000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2020,2020,t,30000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2021,2021,t,30000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2022,2022,t,33000,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2167,Olive oil,2023,2023,t,31000,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2015,2015,t,6700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2016,2016,t,700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2017,2017,t,200,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2018,2018,t,697,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2019,2019,t,28,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2020,2020,t,214,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2021,2021,t,116,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2022,2022,t,1159,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21641.01,"Rapeseed or canola oil, crude",2023,2023,t,69,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2015,2015,t,2106000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2016,2016,t,2150853,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2017,2017,t,2142888,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2018,2018,t,2128904,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2019,2019,t,2118066,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2020,2020,t,2229214,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2021,2021,t,1747520,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2022,2022,t,1638527,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2351f,Raw cane or beet sugar (centrifugal only),2023,2023,t,1711106,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2015,2015,t,9089,E,Estimated value,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2016,2016,t,16646.76,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2017,2017,t,5883.96,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2018,2018,t,10000,E,Estimated value,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2019,2019,t,4907,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2020,2020,t,8704.02,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2021,2021,t,2839.06,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2022,2022,t,1279.21,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.02,"Safflower-seed oil, crude",2023,2023,t,1214.37,I,Value imputed by a receiving agency,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2015,2015,t,7895900,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2016,2016,t,8671000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2017,2017,t,8065600,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2018,2018,t,7249000,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2019,2019,t,8081157,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2020,2020,t,7160242,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2021,2021,t,8391895,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2022,2022,t,7447691,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,2161,Soya bean oil,2023,2023,t,5275641,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2015,2015,t,1109100,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2016,2016,t,1131500,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2017,2017,t,1317300,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2018,2018,t,1304700,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2019,2019,t,1414513,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2020,2020,t,1067506,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2021,2021,t,1340009,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2022,2022,t,1497629,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,21631.01,"Sunflower-seed oil, crude",2023,2023,t,1709511,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2015,2015,t,1336196,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2016,2016,t,944650,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2017,2017,t,1182111,X,Figure from external organization,Unofficial figure
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2018,2018,t,1452151,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2019,2019,t,1301947,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2020,2020,t,1079615,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2021,2021,t,1248155,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2022,2022,t,1145057,A,Official figure,
+QCL,Crops and livestock products,32,Argentina,5510,Production,24212.02,Wine,2023,2023,t,881305,A,Official figure,
