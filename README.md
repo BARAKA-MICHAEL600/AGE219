@@ -1,6 +1,7 @@
 # Climate Change Impact: Decadal Temperature Deviations in Kenya
 *Author:* Baraka Michael  
 *Course:* AGE 219: Basics of Computer Programming  
+*Registration number:* BPE/D/2024/0002
 
 ## Problem Statement
 Rising land surface temperatures present an unpredictable challenge to agricultural planning in East Africa. This project models historical temperature changes over time to provide clear statistical trends for modern planting applications.
